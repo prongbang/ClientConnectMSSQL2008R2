@@ -1,0 +1,10 @@
+C:\Users\ProBigCamp\Documents\Visual Studio 2012\Projects\ClientConnectMSSQL2008R2\ClientConnectMSSQL2008R2\bin\Debug\ClientConnectMSSQL2008R2.exe.config
+C:\Users\ProBigCamp\Documents\Visual Studio 2012\Projects\ClientConnectMSSQL2008R2\ClientConnectMSSQL2008R2\bin\Debug\ClientConnectMSSQL2008R2.exe
+C:\Users\ProBigCamp\Documents\Visual Studio 2012\Projects\ClientConnectMSSQL2008R2\ClientConnectMSSQL2008R2\bin\Debug\ClientConnectMSSQL2008R2.pdb
+C:\Users\ProBigCamp\Documents\Visual Studio 2012\Projects\ClientConnectMSSQL2008R2\ClientConnectMSSQL2008R2\bin\Debug\ClientConnectMSSQL2008R2.xml
+C:\Users\ProBigCamp\Documents\Visual Studio 2012\Projects\ClientConnectMSSQL2008R2\ClientConnectMSSQL2008R2\obj\Debug\ClientConnectMSSQL2008R2.Form1.resources
+C:\Users\ProBigCamp\Documents\Visual Studio 2012\Projects\ClientConnectMSSQL2008R2\ClientConnectMSSQL2008R2\obj\Debug\ClientConnectMSSQL2008R2.Resources.resources
+C:\Users\ProBigCamp\Documents\Visual Studio 2012\Projects\ClientConnectMSSQL2008R2\ClientConnectMSSQL2008R2\obj\Debug\ClientConnectMSSQL2008R2.vbproj.GenerateResource.Cache
+C:\Users\ProBigCamp\Documents\Visual Studio 2012\Projects\ClientConnectMSSQL2008R2\ClientConnectMSSQL2008R2\obj\Debug\ClientConnectMSSQL2008R2.exe
+C:\Users\ProBigCamp\Documents\Visual Studio 2012\Projects\ClientConnectMSSQL2008R2\ClientConnectMSSQL2008R2\obj\Debug\ClientConnectMSSQL2008R2.xml
+C:\Users\ProBigCamp\Documents\Visual Studio 2012\Projects\ClientConnectMSSQL2008R2\ClientConnectMSSQL2008R2\obj\Debug\ClientConnectMSSQL2008R2.pdb
