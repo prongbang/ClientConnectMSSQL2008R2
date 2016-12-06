@@ -1,6 +1,6 @@
-# Client Connect MS SQL Server 2008 R2
+# Client Connect MS SQL Server 2008 R2 (VB.Net)
 
-<h4>Video Tutorials <a href="" target="_blank"> >>Click Me<< </a></h4>
+<h4>Video Tutorials <a href="https://www.youtube.com/watch?v=ljega_1MiAs" target="_blank"> >>Click Me<< </a></h4>
 <h4>Source Code</h4>
 ```vb
 Imports System.Data.SqlClient
