@@ -1,6 +1,6 @@
 # Client Connect MS SQL Server 2008 R2 (VB.Net)
 
-#### Video Tutorials ([>>Click Me<<](https://www.youtube.com/watch?v=ljega_1MiAs))
+#### Video Tutorials ([>>Click Me<<](https://www.youtube.com/watch?v=34Bs_o1KYQ8))
 #### Source Code
 ```vb
 
