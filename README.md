@@ -1,8 +1,9 @@
 # Client Connect MS SQL Server 2008 R2 (VB.Net)
 
-<h4>Video Tutorials <a href="https://www.youtube.com/watch?v=ljega_1MiAs" target="_blank"> >>Click Me<< </a></h4>
-<h4>Source Code</h4>
+#### Video Tutorials ([>>Click Me<<](https://www.youtube.com/watch?v=ljega_1MiAs))
+#### Source Code
 ```vb
+
 Imports System.Data.SqlClient
 
 Public Class Form1
@@ -44,4 +45,5 @@ Public Class Form1
 
     End Sub
 End Class
+
 ```
